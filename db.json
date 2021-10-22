@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,25 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +38,208 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 1
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 2
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 3
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 4
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 5
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 6
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 7
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 8
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 9
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 10
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 11
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 12
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 13
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 14
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 15
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 16
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 17
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 18
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 19
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 20
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 21
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 22
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 23
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 24
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 25
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 26
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 27
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 28
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 29
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 30
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 31
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 32
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 33
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 34
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 35
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 36
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 37
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 38
+    },
+    {
+      "name": "max",
+      "email": "edison",
+      "id": 39
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
